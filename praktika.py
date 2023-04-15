@@ -6,6 +6,6 @@ print (weather_city)
 print (weather_city.get('country'))
 weather_city['country'] = 'Россия'
 print (weather_city)
-weather_city['date'] = '27.05.2019'
+weather_city['date'] = '15.04.2023'
 print (weather_city)
 print (len(weather_city))
